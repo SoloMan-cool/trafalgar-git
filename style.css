@@ -39,3 +39,8 @@
     font-family: sans-serif;
     color: black;
 }
+
+.active{
+    opacity: 1;
+    font-weight: 700;
+}
